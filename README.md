@@ -1,2 +1,3 @@
 # CursoEmvideoPython
- exercicios do curso
+ **exercicios do curso**
+*Todos os exercicios feitos atravez do curso*
